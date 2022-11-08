@@ -34,7 +34,7 @@ const Welcome = () => {
             </p>
 
             <a
-              href="http://meridarotaryartauction.com/2022"
+              href="https://www.biddingowl.com/Auction/tickets.cfm?auctionID=31066"
               className="flex mx-auto inline-flex mt-2 text-white bg-sky border-0 py-2 px-6 focus:outline-none hover:bg-azure rounded text-lg"
             >
               Auction
