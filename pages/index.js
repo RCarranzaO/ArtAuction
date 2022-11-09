@@ -2,6 +2,7 @@ import Welcome from "../components/Welcome";
 import Header from "../components/Header";
 // import Actividades from "../components/Actividades";
 import About from "../components/About";
+import Patrocinadores from "../components/Patrocinadores";
 import Contacto from "../components/Contacto";
 import Footer from "../components/Footer";
 
@@ -12,6 +13,7 @@ export default function IndexPage() {
       <Welcome />
       {/* <Actividades /> */}
       <About />
+      <Patrocinadores />
       <Contacto />
       <Footer />
     </div>
